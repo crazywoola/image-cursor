@@ -1,22 +1,15 @@
 {
-  "name": "image-cursor",
+  "name": "image-cursor-example",
   "version": "1.0.0",
-  "targets": {
-    "main": {
-      "source": "src/index.ts"
-    }
-  },
-  "main": "dist/main.js",
-  "module": "dist/module.js",
-  "types": "dist/types.d.ts",
+  "source": "src/index.html",
   "scripts": {
-    "dev": "parcel watch",
-    "build": "parcel build"
+    "dev": "parcel"
   },
   "devDependencies": {
     "@parcel/packager-ts": "2.8.3",
     "@parcel/transformer-typescript-types": "2.8.3",
     "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
     "parcel": "latest",
     "process": "^0.11.10",
     "typescript": ">=3.0.0"
