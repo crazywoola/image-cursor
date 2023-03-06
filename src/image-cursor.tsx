@@ -1,5 +1,7 @@
 import React from 'react';
 
-const ImageCursor = () => <></>;
+const ImageCursor = () => <div>
+    Hello Image Cursor
+</div>;
 
 export default ImageCursor;
