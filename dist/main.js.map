@@ -1,1 +1,0 @@
-{"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ACAA;;AAEA,MAAM,oCAAc,kBAAM;IAE1B,2CAAe;;ADJf","sources":["src/index.ts","src/image-cursor.tsx"],"sourcesContent":["export * from \"./image-cursor\";","import React from 'react';\n\nconst ImageCursor = () => <></>;\n\nexport default ImageCursor;"],"names":[],"version":3,"file":"main.js.map"}
